@@ -1,1 +1,1 @@
-# Hackathon
+model: "gpt4all"
